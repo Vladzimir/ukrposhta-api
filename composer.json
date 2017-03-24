@@ -9,6 +9,15 @@
     }
   ],
   "license": "MIT",
+  "keywords":[
+    "wrapper-api",
+    "ukraine",
+    "post",
+    "delivery",
+    "delivery-api",
+    "ukrposhta",
+    "ukrposhta-api"
+  ],
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
