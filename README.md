@@ -37,3 +37,5 @@ array(6) {
 
 
 ```
+
+Download API documentation you can [here](http://ukrposhta.ua/wp-content/uploads/2016/02/SearchServiceProgrammerManual_V2.2.doc)
